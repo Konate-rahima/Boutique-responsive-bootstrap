@@ -1,0 +1,103 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* HERO */
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url("../images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+/* MENU */
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.price {
+    font-weight: bold;
+    color: red;
+}
+
+/* ABOUT */
+#apropos p {
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+/* FORM */
+form {
+    max-width: 700px;
+    margin: auto;
+}html {
+    scroll-behavior: smooth;
+}
+
+/* HERO */
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url("../images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+/* MENU */
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.price {
+    font-weight: bold;
+    color: red;
+}
+
+/* ABOUT */
+#apropos p {
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+/* FORM */
+form {
+    max-width: 700px;
+    margin: auto;
+}
